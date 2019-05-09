@@ -7,7 +7,6 @@ Lists:
 	XOR linked list
 	Conc-tree list
 	Dynamic array
-	Linked list
 
 Trees:
 	Left-child right-sibling binary tree	
