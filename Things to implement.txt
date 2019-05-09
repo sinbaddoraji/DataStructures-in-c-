@@ -1,0 +1,85 @@
+Data Structures to implement
+
+Lists:
+	Self-organizing list
+	Unrolled linked list
+	Doubly linked list
+	XOR linked list
+	Conc-tree list
+	Dynamic array
+	Linked list
+
+Trees:
+	Left-child right-sibling binary tree	
+	Self-balancing binary search tree
+	Threaded binary tree
+	Red–black tree
+	B+ tree
+	B- tree
+	
+Heaps:
+	Heap
+	Weak heap
+	Binary heap
+	Binomial heap
+	Fibonacci heap
+
+Hashes:
+	Hash trie
+	Hash list
+	Hash table
+
+Sorting Algorithms:
+
+	Selection Sort
+	
+	Bubble Sort
+	Recursive Bubble Sort
+	
+	Insertion Sort
+	Binary Insertion Sort
+	Recursive Insertion Sort
+	
+	Merge Sort
+	Iterative Merge Sort
+	
+	Quick Sort
+	Iterative Quick Sort
+	
+	TimSort
+	Comb Sort
+	ShellSort
+	Heap Sort
+	Radix Sort
+	Bucket Sort
+	Cocktail Sort
+	
+	Tag Sort 
+	Tree Sort
+	Gnome Sort
+	Sleep Sort
+	Cycle Sort
+	Strand Sort
+	Stooge Sort
+	
+	Counting Sort
+	Pancake sorting
+	Pigeonhole Sort
+	
+	Bitonic Sort
+	Cartesian Tree Sorting
+	Odd-Even Sort / Brick Sort
+	BogoSort (Permutation Sort)
+	
+	3-way Merge Sort
+	Merge Sort for Linked Lists
+	Merge Sort for Doubly Linked List
+	
+	QuickSort on Singly Linked List
+	QuickSort on Doubly Linked List
+	3-Way QuickSort (Dutch National Flag)
+	
+	
+	
+
+	
