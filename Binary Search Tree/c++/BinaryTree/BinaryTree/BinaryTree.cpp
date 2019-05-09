@@ -12,6 +12,7 @@ public:
 
 Tree* root;
 
+//New node item
 Tree* newNode(int value)
 {
 	Tree* output = new Tree;
@@ -21,28 +22,35 @@ Tree* newNode(int value)
 	return output;
 }
 
-void addNumber(int value, Tree* cur)
+void addNode(int value, Tree* cur)
 {
+	//if the value being added is less than the node being checked
+	//then go check left node 
+	//else if node is null then node = new node with value
+	
+	//if the value being added is greater than the node being checked
+	//then go check right node 
+	//else if node is null then node = new node with value
 	if (value < cur->value)
 	{
-		if (cur->left != NULL)addNumber(value, cur->left);
+		if (cur->left != NULL)addNode(value, cur->left);
 		else cur->left = newNode(value);
 	}
 	else
 	{
-		if (cur->right != NULL)addNumber(value, cur->right);
+		if (cur->right != NULL)addNode(value, cur->right);
 		else cur->right = newNode(value);
 	}
 }
 
-void addNumber(int value)
+void addNode(int value)
 {
 	if (root == NULL)
 	{
 		root = newNode(value);
 		return;
 	}
-	addNumber(value, root);
+	addNode(value, root);
 }
 
 bool treeContains(int value)
@@ -66,12 +74,12 @@ bool treeContains(int value)
 
 int main()
 {
-	addNumber(5);
-	addNumber(4);
-	addNumber(6);
-	addNumber(3);
-	addNumber(7);
-	addNumber(2);
+	addNode(5);
+	addNode(4);
+	addNode(6);
+	addNode(3);
+	addNode(7);
+	addNode(2);
 
 	//Check if the tree contains value from 0 to 10
 	for (int i = 0; i <= 10; i++)
