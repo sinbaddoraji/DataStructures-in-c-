@@ -1,0 +1,1 @@
+This implementation also serves as a doubly linked list
