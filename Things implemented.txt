@@ -1,0 +1,18 @@
+Data Structures to implement
+
+Lists:
+	Binart Search Tree
+	Linked Lists
+	Self-Organizing Linked List
+
+Trees:
+	
+Heaps:
+
+Hashes:
+
+Sorting Algorithms:
+
+	
+
+	
