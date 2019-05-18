@@ -1,9 +1,7 @@
 Data Structures to implement
 
 Lists:
-	Self-organizing list
 	Unrolled linked list
-	Doubly linked list
 	XOR linked list
 	Conc-tree list
 	Dynamic array
@@ -29,7 +27,7 @@ Hashes:
 	Hash table
 
 Sorting Algorithms:
-
+	Intro Sort
 	Selection Sort
 	
 	Bubble Sort
