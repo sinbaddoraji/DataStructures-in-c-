@@ -3,7 +3,9 @@ Data Structures to implement
 Lists:
 	Binart Search Tree
 	Linked Lists
+	Double Linked List
 	Self-Organizing Linked List
+	Dynamic array
 
 Trees:
 	
