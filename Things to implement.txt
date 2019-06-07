@@ -2,7 +2,6 @@ Data Structures to implement
 
 Lists:
 	Unrolled linked list
-	XOR linked list
 	Conc-tree list
 	
 

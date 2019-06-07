@@ -1,14 +1,15 @@
 Data Structures to implement
 
 Lists:
-	Binart Search Tree
 	Linked Lists
 	Double Linked List
 	Self-Organizing Linked List
 	Dynamic array
+	XOR linked list
+	Unrolled linked list
 
 Trees:
-	
+	Binart Search Tree
 Heaps:
 
 Hashes:
