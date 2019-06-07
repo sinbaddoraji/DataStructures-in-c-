@@ -1,7 +1,7 @@
 Data Structures to implement
 
 Lists:
-	Unrolled linked list
+	
 	Conc-tree list
 	
 
